@@ -1,0 +1,46 @@
+Objective
+
+1. Understand department-wise attrition patterns.
+
+2. Analyze compensation and satisfaction trends across genders and roles.
+
+3. Identify correlations between attrition and other key variables.
+
+4. Provide recommendations to HR for reducing attrition.
+
+
+Dataset Summary:
+
+The dataset includes the following fields:
+
+   a) Demographic Info: Age, Gender, Marital Status, Education, etc.
+
+   b) Work Details: Department, Job Role, Job Level, Years at Company, etc.
+
+   c) Compensation: Monthly Income, Hourly Rate, Stock Options, etc.
+
+   d) Satisfaction & Performance: Job Satisfaction, Work-Life Balance, Attrition, etc.
+
+
+Suggested Visualizations :
+ 
+  Bar Chart: Attrition by salary
+
+  Box Plot: Monthly Income by Attrition
+
+  Pie Chart: Atrrition by department and education feilds.
+  
+  Donut Chart: Atrition by performance.
+
+  Column Chart: Attrition by age group.
+
+  Treemap: Attrition by Job role.
+
+  KPI'S : Total Employees, Total Attrition, Attrition Rate, Average Age, Average working Age.
+
+  Slicers: Added slicers for Gender, Businees Travel and Over Time.
+ 
+ 
+
+ 
+
